@@ -6,7 +6,7 @@ As a Senior Data Analyst at Pymaceuticals, I have generated tables and figures f
 
 ### **Pymaceuticals - Jupyter Notebook**
 
-This [file](https://github.com/cecileung1208/Homework/blob/master/Unit%205%20-%20MatplotLib%20Challenge/Pymaceuticals/Pymaceuticals.ipynb) provides program codes that output various graphs and tables that determine the results of the cancer treatments across different drug regimen for 248 mice.  
+This [file](https://github.com/cecileung1208/Matplotlib-The-Power-of-Plots/blob/master/Pymaceuticals/Pymaceuticals.ipynb) provides program codes that output various graphs and tables that determine the results of the cancer treatments across different drug regimen for 248 mice.  
 
 **The output are as follows:**
 *    Observations and Insights
@@ -43,6 +43,6 @@ The 4 drug regimens are: Capomulin, Ceftamin, Infubinol, Ramicane
 
 ### **2.  Pymaceuticals Data Source**
 
-The data frame is extracted from the following CSV Files in the [data directory](https://github.com/cecileung1208/Homework/tree/master/Unit%205%20-%20MatplotLib%20Challenge/Pymaceuticals/data):
-*    [Mouse Metadata](https://github.com/cecileung1208/Homework/blob/master/Unit%205%20-%20MatplotLib%20Challenge/Pymaceuticals/data/Mouse_metadata.csv)
-*    [Study Results](https://github.com/cecileung1208/Homework/blob/master/Unit%205%20-%20MatplotLib%20Challenge/Pymaceuticals/data/Study_results.csv)
+The data frame is extracted from the following CSV Files in the [data directory](https://github.com/cecileung1208/Matplotlib-The-Power-of-Plots/tree/master/Pymaceuticals/data):
+*    [Mouse Metadata](https://github.com/cecileung1208/Matplotlib-The-Power-of-Plots/blob/master/Pymaceuticals/data/Mouse_metadata.csv)
+*    [Study Results](https://github.com/cecileung1208/Matplotlib-The-Power-of-Plots/blob/master/Pymaceuticals/data/Study_results.csv)
