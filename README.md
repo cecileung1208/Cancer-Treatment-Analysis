@@ -1,6 +1,6 @@
 # Cancer Treatment Analysis
 
-![Image](https://www.nsmedicaldevices.com/wp-content/uploads/sites/2/2019/09/future-of-cancer-care-740x520.jpg)
+![Image](https://news.usc.edu/files/2018/03/Nanoparticle-cancer-detection-web.jpg)
 
 ## Background
 
