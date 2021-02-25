@@ -1,6 +1,6 @@
 # Cancer Treatment Analysis
 
-![Image](https://www.nsmedicaldevices.com/news/precision-genomics-healthcare-treatment/)
+![Image](https://www.nsmedicaldevices.com/wp-content/uploads/sites/2/2019/09/future-of-cancer-care-740x520.jpg)
 
 ## Background
 
