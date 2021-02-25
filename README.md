@@ -4,9 +4,17 @@
 
 ## Background
 
+The goal of this analysis is to determine the effectiveness of the ten difference cancer drug treatments results being tested on 248 mice over the course of 45 days.  Results of the mice results have been provided in CSV datasets.  Python with Pandas, Numpy, and Matplotlib (through Jupyter Notebooks) was used to clean and process the data, as well as calculate and display the desired outputs.
+
 ## Dataset
 
+*    [Mouse Metadata](https://github.com/cecileung1208/Matplotlib-The-Power-of-Plots/blob/master/Pymaceuticals/data/Mouse_metadata.csv)<br>
+*    [Study Results](https://github.com/cecileung1208/Matplotlib-The-Power-of-Plots/blob/master/Pymaceuticals/data/Study_results.csv)
+
 ## Requirement
+
+* Import the datasets into Jupyter notebook.
+* 
 
 ## Scripts
 
