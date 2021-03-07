@@ -47,8 +47,24 @@ The goal of this analysis is to determine the effectiveness of the 10 difference
 
 **1. Even Sample Size and Gender Distribution to ensure consistency in results.**
 
-From the bar graph, there are approximately 25 mice for each of the ten drug regimens.
+* From the bar graph, there are approximately 25 mice for each of the ten drug regimens.
 ![Image](https://github.com/cecileung1208/Cancer-Treatment-Analysis/blob/master/Pymaceuticals/Images/bar.png)
 
-From the pie chart, there is almost a 50% distribution amongst the male and female mice.
+* From the pie chart, there is almost a 50% distribution amongst the male and female mice.
 ![Image](https://github.com/cecileung1208/Cancer-Treatment-Analysis/blob/master/Pymaceuticals/Images/pie.png)
+
+**2.	Capomulin and Ramicane are the most effective drugs in reducing the tumor size.**
+*    All mice had a tumor size of 45 mm3 on Day 0.
+* 	 Based on the box plot diagram, some of the mice tumor size reduced to approximately 25mm3 and 22mm3 for Capomulin and     
+     Ramicane respectively.
+     
+![Image](https://github.com/cecileung1208/Cancer-Treatment-Analysis/blob/master/Pymaceuticals/Images/boxplot.png)
+
+**3.	The tumor volume decreases over the 45 days of take the Capomulin drug.**
+
+![Image](https://github.com/cecileung1208/Cancer-Treatment-Analysis/blob/master/Pymaceuticals/Images/line.png)
+
+**4.	There is a positive correlation between the tumor size and weight for Capomulin.**
+* 	The correlation coefficient is 0.84 which shows when the weight increases, the tumor size increases too.
+
+![Image](https://github.com/cecileung1208/Cancer-Treatment-Analysis/blob/master/Pymaceuticals/Images/scatter.png)
