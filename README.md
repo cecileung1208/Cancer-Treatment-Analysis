@@ -61,6 +61,7 @@ The goal of this analysis is to determine the effectiveness of the 10 difference
 ![Image](https://github.com/cecileung1208/Cancer-Treatment-Analysis/blob/master/Pymaceuticals/Images/boxplot.png)
 
 **3.	The tumor volume decreases over the 45 days of take the Capomulin drug.**
+
 ![Image](https://github.com/cecileung1208/Cancer-Treatment-Analysis/blob/master/Pymaceuticals/Images/line.png)
 
 **4.	There is a positive correlation between the tumor size and weight for Capomulin.**
