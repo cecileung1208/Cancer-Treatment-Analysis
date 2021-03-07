@@ -48,7 +48,7 @@ The goal of this analysis is to determine the effectiveness of the 10 difference
 **1. Even Sample Size and Gender Distribution to ensure consistency in results.**
 
 From the bar graph, there are approximately 25 mice for each of the ten drug regimens.
-![Image]()
+![Image](https://github.com/cecileung1208/Cancer-Treatment-Analysis/blob/master/Pymaceuticals/Images/bar.png)
 
 From the pie chart, there is almost a 50% distribution amongst the male and female mice.
-![Image]()
+![Image](https://github.com/cecileung1208/Cancer-Treatment-Analysis/blob/master/Pymaceuticals/Images/pie.png)
