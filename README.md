@@ -57,6 +57,7 @@ The goal of this analysis is to determine the effectiveness of the 10 difference
 *    All mice had a tumor size of 45 mm3 on Day 0.
 * 	 Based on the box plot diagram, some of the mice tumor size reduced to approximately 25mm3 and 22mm3 for Capomulin and     
      Ramicane respectively.
+     
 ![Image](https://github.com/cecileung1208/Cancer-Treatment-Analysis/blob/master/Pymaceuticals/Images/boxplot.png)
 
 **3.	The tumor volume decreases over the 45 days of take the Capomulin drug.**
