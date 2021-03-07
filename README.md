@@ -16,36 +16,36 @@ The goal of this analysis is to determine the effectiveness of the 10 difference
 1. Import dependencies
 2. Import the csv datasets
 3. Creating Dataframe
-  * Import and merge datasets into Jupyter notebook.
-  * Check the number of unique mouse IDs.
-  * Determine if there are any duplicates mouse ID and time points.  If so, drop those values.
+   * Merge datasets into Jupyter notebook.
+   * Check the number of unique mouse IDs.
+   * Determine if there are any duplicates mouse ID and time points.  If so, drop those values.
 4. Generate a summary statistics table of mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen by the following methods:
-  * Groupby and Summary
-  * Aggregate
+   * Groupby and Summary
+   * Aggregate
 5. Create a bar chart showing total number of mice tested against the 10 drug regimen using the following methods:
-  *   Pandas
-  *   Pyplot
+   *   Pandas
+   *   Pyplot
 6. Create a pie chart showing the gender distribution of all the mice using the following methods:
-  *   Pandas
-  *   Pyplot
+   *   Pandas
+   *   Pyplot
 7. Create a box plot graph to calculate the final size of the tumor across the 4 drug regimen, Capomulin, Ramicane, Infubinol, and Ceftamin.
-  *   Merge this group df with the original dataframe to get the tumor volume at the last timepoint and filter for the 4 drug regimen.
-  *   Create list for treatment names and tumor volumes.
-  *   Calculate the quartiles, interquartiles range, upper and lower bounds across the 4 drug regimen.
-  *   Create a list of the tumor sizes against the drug regimen.
-  *   Determine outliers using upper and lower bounds across the drug regimen.
-  *   Plot the boxes and outliers across the 4 drug regimen.
+   *   Merge this group df with the original dataframe to get the tumor volume at the last timepoint and filter for the 4 drug regimen.
+   *   Create list for treatment names and tumor volumes.
+   *   Calculate the quartiles, interquartiles range, upper and lower bounds across the 4 drug regimen.
+   *   Create a list of the tumor sizes against the drug regimen.
+   *   Determine outliers using upper and lower bounds across the drug regimen.
+   *   Plot the boxes and outliers across the 4 drug regimen.
 8. Create a line graph tumor volume vs time point of a specific mouse under the Capomulin drug regimen.
 9. Create a scatter plot of tumor volume vs weight of all mouses under the Capomulin drug regimen.
-  *   Filter for Capomulin.
-  *   Group by drug regimen and get the mean of the tumor volume.
-  *   Plot the scatter plot.
+   *   Filter for Capomulin.
+   *   Group by drug regimen and get the mean of the tumor volume.
+   *   Plot the scatter plot.
 10. Calculate the correlation coefficient and linear regression model and plot the line against the scatter plot.
 
 ## Results
 
 
-**1. Even Sample Size and Gender Distribution to ensure consistency in results.
+**1. Even Sample Size and Gender Distribution to ensure consistency in results.**
 
 From the bar graph, there are approximately 25 mice for each of the ten drug regimens.
 ![Image]()
