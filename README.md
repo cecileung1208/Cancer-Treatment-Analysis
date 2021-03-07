@@ -66,4 +66,5 @@ The goal of this analysis is to determine the effectiveness of the 10 difference
 
 **4.	There is a positive correlation between the tumor size and weight for Capomulin.**
 * 	The correlation coefficient is 0.84 which shows when the weight increases, the tumor size increases too.
+
 ![Image](https://github.com/cecileung1208/Cancer-Treatment-Analysis/blob/master/Pymaceuticals/Images/scatter.png)
