@@ -11,7 +11,7 @@ The goal of this analysis is to determine the effectiveness of the 10 difference
 *    [Mouse Metadata](https://github.com/cecileung1208/Matplotlib-The-Power-of-Plots/blob/master/Pymaceuticals/data/Mouse_metadata.csv)<br>
 *    [Study Results](https://github.com/cecileung1208/Matplotlib-The-Power-of-Plots/blob/master/Pymaceuticals/data/Study_results.csv)
 
-## Requirement
+## Method
 
 1. Import dependencies
 2. Import the csv datasets
