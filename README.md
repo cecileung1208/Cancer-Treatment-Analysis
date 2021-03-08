@@ -4,7 +4,40 @@
 
 ## Background
 
-The goal of this analysis is to determine the effectiveness of the 10 difference cancer drug treatments results being tested on 248 mice over the course of 45 days.  Results of the mice results have been provided in CSV datasets.  Python with Pandas, Numpy, and Matplotlib (through Jupyter Notebooks) was used to clean and process the data, as well as calculate and display the desired outputs.
+Pymaceuticals is a company that specializes in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
+
+The goal of this analysis is to determine the effectiveness of Pymaceutical's most popular drug regimen, CApomulin against the 9 different cancer drug treatments being tested on the 249 mice.  Over the course of 45 days, tumor development was observed and measured. 
+
+Results of the mice results have been provided in CSV datasets.  Python with Pandas, Numpy, and Matplotlib (through Jupyter Notebooks) was used to clean and process the data, as well as calculate and display the desired outputs.
+
+## Requirements
+
+**Statistics Summary**
+Define mean, median, variance standard deviation, and SEM of the tumor volume by the following methods:
+* Groupby and Pandas
+* Aggregate
+
+**Bar Graph**
+Produce a bar graph having the Number of Mice against the 10 Drug Regimen by the following methods:
+* Pandas
+* Pyplot
+
+**Pie Chart**
+Plot the Number of Mice against the 10 Drug Regimen by the following methods:
+* Pandas
+* Pyplot
+
+**Box Plot Graph**
+Calculate the size of the tumor across the 4 drug regimen, Capomulin, Ramicane, Infubinol, and Ceftamin.
+
+**Line Graph**
+Plot the tumor volume vs. time point of a specific mouse under the Capomulin drug regimen.
+
+**Scatterplot**
+Plot the tumor volume vs. weight of all mouses under the Capomulin drug regimen.
+ 
+**Regression Model**
+1Calculate the correlation coefficient and linear regression model and plot the line against the scatter plot.
 
 ## Dataset
 
@@ -41,6 +74,10 @@ The goal of this analysis is to determine the effectiveness of the 10 difference
    *   Group by drug regimen and get the mean of the tumor volume.
    *   Plot the scatter plot.
 10. Calculate the correlation coefficient and linear regression model and plot the line against the scatter plot.
+
+## Scripts
+[Pymaceuticals Notebook](https://github.com/cecileung1208/Cancer-Treatment-Analysis/blob/master/Pymaceuticals/Pymaceuticals.ipynb)
+
 
 ## Results
 
