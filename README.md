@@ -37,7 +37,7 @@ Plot the tumor volume vs. time point of a specific mouse under the Capomulin dru
 Plot the tumor volume vs. weight of all mouses under the Capomulin drug regimen.
  
 **Regression Model**
-1Calculate the correlation coefficient and linear regression model and plot the line against the scatter plot.
+Calculate the correlation coefficient and linear regression model and plot the line against the scatter plot.
 
 ## Dataset
 
@@ -76,7 +76,7 @@ Plot the tumor volume vs. weight of all mouses under the Capomulin drug regimen.
 10. Calculate the correlation coefficient and linear regression model and plot the line against the scatter plot.
 
 ## Scripts
-[Pymaceuticals Notebook](https://github.com/cecileung1208/Cancer-Treatment-Analysis/blob/master/Pymaceuticals/Pymaceuticals.ipynb)
+* [Pymaceuticals Notebook](https://github.com/cecileung1208/Cancer-Treatment-Analysis/blob/master/Pymaceuticals/Pymaceuticals.ipynb)
 
 
 ## Results
